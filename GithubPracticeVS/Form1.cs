@@ -15,6 +15,8 @@ namespace GithubPracticeVS
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("GithubPracticeVS");
+            Console.WriteLine("C#");
         }
     }
 }
