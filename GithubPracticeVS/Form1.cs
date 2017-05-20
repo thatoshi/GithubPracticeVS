@@ -16,8 +16,7 @@ namespace GithubPracticeVS
         {
             InitializeComponent();
             Console.WriteLine("GithubPracticeVS");
-            Console.WriteLine("C#");
-            Console.WriteLine("Training");
+            Console.WriteLine("That's why l play drums like there's no tomorrow.");
             textBox1.Text += "We are X";
         }
     }
