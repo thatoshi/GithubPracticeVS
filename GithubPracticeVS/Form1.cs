@@ -20,6 +20,9 @@ namespace GithubPracticeVS
             Console.WriteLine("I almost feel like l was looking for a reason to die.");
             Console.WriteLine("That's why l play drums like there's no tomorrow.");
             Console.WriteLine("Everything disappears, everything fades out in this world.");
+            Console.WriteLine("The next moment...");
+            Console.WriteLine("...the person you love...");
+            Console.WriteLine("...may not be there.");
             textBox1.Text += "We are X";
         }
     }
