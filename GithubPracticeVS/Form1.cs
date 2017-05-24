@@ -23,7 +23,6 @@ namespace GithubPracticeVS
             Console.WriteLine("The next moment...");
             Console.WriteLine("...the person you love...");
             Console.WriteLine("...may not be there.");
-            Console.WriteLine("It happened so many times...");
             textBox1.Text += "We are X";
         }
     }
