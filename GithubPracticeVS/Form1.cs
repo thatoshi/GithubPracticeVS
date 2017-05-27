@@ -25,6 +25,7 @@ namespace GithubPracticeVS
             Console.WriteLine("...may not be there.");
             Console.WriteLine("It happened so many times...");
             Console.WriteLine("Everything was like a...");
+            Console.WriteLine("dream, like a nightmare.");
             textBox1.Text += "We are X";
         }
     }
