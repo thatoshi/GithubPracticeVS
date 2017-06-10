@@ -33,6 +33,9 @@ namespace GithubPracticeVS
             Console.WriteLine("The day I'm gonna die...");
             Console.WriteLine("I'm gonna tell myself...");
             Console.WriteLine("at least I tried everything.");
+
+            Console.WriteLine("I did everything.");
+
             textBox1.Text += "We are X";
         }
     }
