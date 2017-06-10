@@ -30,6 +30,9 @@ namespace GithubPracticeVS
             Console.WriteLine("...the life of me...");
             Console.WriteLine("...after all those years of mystery...");
             Console.WriteLine("I don't know what we are.");
+            Console.WriteLine("The day I'm gonna die...");
+            Console.WriteLine("I'm gonna tell myself...");
+            Console.WriteLine("at least I tried everything.");
             textBox1.Text += "We are X";
         }
     }
