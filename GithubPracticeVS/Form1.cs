@@ -26,6 +26,10 @@ namespace GithubPracticeVS
             Console.WriteLine("It happened so many times...");
             Console.WriteLine("Everything was like a...");
             Console.WriteLine("dream, like a nightmare.");
+            Console.WriteLine("The life of X JAPAN...");
+            Console.WriteLine("...the life of me...");
+            Console.WriteLine("...after all those years of mystery...");
+            Console.WriteLine("I don't know what we are.");
             textBox1.Text += "We are X";
         }
     }
