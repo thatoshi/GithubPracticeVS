@@ -36,6 +36,12 @@ namespace GithubPracticeVS
 
             Console.WriteLine("I did everything.");
 
+            Console.WriteLine("Hi. This is Yoshiki, from the band X JAPAN");
+            Console.WriteLine("We are playing Madison Square Garden in New York.");
+            Console.WriteLine("Saturday, October 11th");
+
+
+
             textBox1.Text += "We are X";
         }
     }
