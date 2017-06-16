@@ -40,6 +40,8 @@ namespace GithubPracticeVS
             Console.WriteLine("We are playing Madison Square Garden in New York.");
             Console.WriteLine("Saturday, October 11th");
 
+            Console.WriteLine("Join me now for Yoshiki's 20 most influential hard rock songs on Sirius XM Channel 13...");
+
 
 
             textBox1.Text += "We are X";
