@@ -25,6 +25,25 @@ namespace GithubPracticeVS
             Console.WriteLine("...may not be there.");
             Console.WriteLine("It happened so many times...");
             Console.WriteLine("Everything was like a...");
+            Console.WriteLine("dream, like a nightmare.");
+            Console.WriteLine("The life of X JAPAN...");
+            Console.WriteLine("...the life of me...");
+            Console.WriteLine("...after all those years of mystery...");
+            Console.WriteLine("I don't know what we are.");
+            Console.WriteLine("The day I'm gonna die...");
+            Console.WriteLine("I'm gonna tell myself...");
+            Console.WriteLine("at least I tried everything.");
+
+            Console.WriteLine("I did everything.");
+
+            Console.WriteLine("Hi. This is Yoshiki, from the band X JAPAN");
+            Console.WriteLine("We are playing Madison Square Garden in New York.");
+            Console.WriteLine("Saturday, October 11th");
+
+            Console.WriteLine("Join me now for Yoshiki's 20 most influential hard rock songs on Sirius XM Channel 13...");
+
+
+
             textBox1.Text += "We are X";
         }
     }
