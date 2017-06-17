@@ -42,6 +42,9 @@ namespace GithubPracticeVS
 
             Console.WriteLine("Join me now for Yoshiki's 20 most influential hard rock songs on Sirius XM Channel 13...");
 
+            Console.WriteLine("It's great I mean, we always wanted to go overseas..");
+            Console.WriteLine("You know, because of internet our music started spreading.");
+
 
 
             textBox1.Text += "We are X";
