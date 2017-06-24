@@ -45,7 +45,10 @@ namespace GithubPracticeVS
             Console.WriteLine("It's great I mean, we always wanted to go overseas..");
             Console.WriteLine("You know, because of internet our music started spreading.");
 
-
+            Console.WriteLine("Yes, it was kind of our dream to...");
+            Console.WriteLine("you know");
+            Console.WriteLine("come here");
+            Console.WriteLine("Especially Madison Square Garden");
 
             textBox1.Text += "We are X";
         }
