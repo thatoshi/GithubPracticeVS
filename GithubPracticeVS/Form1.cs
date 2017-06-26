@@ -50,6 +50,10 @@ namespace GithubPracticeVS
             Console.WriteLine("come here");
             Console.WriteLine("Especially Madison Square Garden");
 
+            Console.WriteLine("People call us like 'Visual Kei'");
+            Console.WriteLine("It's like visual rock in Japan.");
+
+
             textBox1.Text += "We are X";
         }
     }
