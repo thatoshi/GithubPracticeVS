@@ -53,6 +53,9 @@ namespace GithubPracticeVS
             Console.WriteLine("People call us like 'Visual Kei'");
             Console.WriteLine("It's like visual rock in Japan.");
 
+            Console.WriteLine("It's crazy outfit and crazy makeup and everything");
+            Console.WriteLine("But the same time we play super heavy music as well as super sooft music");
+
 
             textBox1.Text += "We are X";
         }
