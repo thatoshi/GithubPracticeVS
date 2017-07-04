@@ -56,6 +56,8 @@ namespace GithubPracticeVS
             Console.WriteLine("It's crazy outfit and crazy makeup and everything");
             Console.WriteLine("But the same time we play super heavy music as well as super sooft music");
 
+            Console.WriteLine("Almost 20 years ago, I was ready to die for X.");
+
 
             textBox1.Text += "We are X";
         }
