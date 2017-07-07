@@ -58,6 +58,9 @@ namespace GithubPracticeVS
 
             Console.WriteLine("Almost 20 years ago, I was ready to die for X.");
 
+            Console.WriteLine("X JAPAN's era was over.");
+            Console.WriteLine("Swan sings only one time before they die.");
+
 
             textBox1.Text += "We are X";
         }
