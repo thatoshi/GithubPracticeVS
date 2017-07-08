@@ -62,6 +62,18 @@ namespace GithubPracticeVS
             Console.WriteLine("Swan sings only one time before they die.");
 
 
+            Console.WriteLine("Pain...");
+            Console.WriteLine("...doesn't...");
+            Console.WriteLine("...age.");
+            Console.WriteLine("After 30 years,");
+            Console.WriteLine("40 years,");
+            Console.WriteLine("still the same");
+
+            Console.WriteLine("Everything disappears, everything fades out in this world.");
+            Console.WriteLine("But the feeling of the...");
+
+            Console.WriteLine("But the pain never disappears.");
+
             textBox1.Text += "We are X";
         }
     }
