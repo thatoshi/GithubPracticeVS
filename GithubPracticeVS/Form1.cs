@@ -8,10 +8,32 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
 namespace GithubPracticeVS
 {
+
     public partial class Form1 : Form
     {
+
+        private System.Media.SoundPlayer player = null;
+
+        private void StopSound()
+        {
+            if (player != null) {
+                player.Stop();
+                player.Dispose();
+                player = null;
+            }
+        }
+
+        private void PlaySound()
+        {
+            string SoundFile = "";
+            player = new System.Media.SoundPlayer(SoundFile);
+            player.Play();
+        }
+
         public Form1()
         {
             InitializeComponent();
