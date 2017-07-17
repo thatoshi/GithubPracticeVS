@@ -34,10 +34,22 @@ namespace GithubPracticeVS
             player.Play();
         }
 
-        public Form1()
-        {
-            InitializeComponent();
+        private void Subtitle() {
+
+            System.IO.StreamReader cReader = new System.IO.StreamReader("../../Subtitle.txt", System.Text.Encoding.Default);
+
+            string stResult = string.Empty;
+
+            while(cReader.Peek() >= 0)
+            {
+                string stBuffer = cReader.ReadLine();
+                stResult += stBuffer + System.Environment.NewLine;
+            }
+            cReader.Close();
+            Console.WriteLine(stResult);
+
             Console.WriteLine("GithubPracticeVS");
+
             Console.WriteLine("Constantly asking, \"Why am l here? Why am I in this world?\"");
             Console.WriteLine("I almost feel like l was looking for a reason to die.");
             Console.WriteLine("That's why l play drums like there's no tomorrow.");
@@ -95,7 +107,12 @@ namespace GithubPracticeVS
             Console.WriteLine("But the feeling of the...");
 
             Console.WriteLine("But the pain never disappears.");
+        }
 
+        public Form1()
+        {
+            InitializeComponent();
+            Subtitle();
             textBox1.Text += "We are X";
         }
     }
